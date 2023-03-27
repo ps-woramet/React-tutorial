@@ -1,0 +1,13 @@
+.red{
+    color: red
+}
+
+.blue{
+    color: blue;
+}
+.com3{
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    margin: 0 auto;
+}
